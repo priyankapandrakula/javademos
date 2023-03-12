@@ -1,7 +1,7 @@
 package varialesPac;
 
 public class Demo3 {
-	private Demo3()
+	public Demo3()
 	{
 		System.out.println("from constructor");
 	}

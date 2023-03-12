@@ -8,10 +8,13 @@ public class operatorsDemo {
 		int b=sc.nextInt();
 		
 		
-		System.out.println(a+b);
-		System.out.println(a-b);
-		System.out.println(a*b);
-		System.out.println(a/b);
+		System.out.println( "addition is :"+(a+b));
+		System.out.println("subtraction is :"  +(a-b));
+		System.out.println("multiplication is :"+ (a*b));
+		System.out.println("division is :"+ (a/b));
+		
+		
+		
 
 	}
 
